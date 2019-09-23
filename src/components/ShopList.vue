@@ -1,11 +1,6 @@
 <template>
   <div class="wrap">
-    <div>header</div>
-    <div>
-      <router-link to="admin/shop-detail">shopDetail</router-link>
-    </div>
-    <router-view></router-view>
-    <div>footer</div>
+    shop list
   </div>
 </template>
 
